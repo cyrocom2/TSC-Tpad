@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="About [App Name] - Cyrocom Technologies">
+    <title>About [App Name]</title>
+    <link rel="stylesheet" href="styles_about.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>About [App Name]</h1>
+        </header>
+
+        <main>
+            <section>
+                <h2>Overview</h2>
+                <p><strong>[App Name]</strong> is designed to help Kenyan teachers easily manage their professional responsibilities through quick access to essential Teachers Service Commission (TSC) systems, including the Teachers Performance Appraisal and Development (TPAD), Leave Application, and Transfer Application portals. By streamlining these processes, [App Name] allows teachers to stay compliant with TSC requirements efficiently.</p>
+            </section>
+
+            <section>
+                <h2>Features</h2>
+                <ul>
+                    <li>Access the TPAD system to set targets and complete self-appraisals.</li>
+                    <li>Submit and manage leave applications through the Leave Application Portal.</li>
+                    <li>Request and track transfer applications with ease.</li>
+                    <li>Receive notifications to stay on top of appraisal deadlines and updates.</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Developer</h2>
+                <p><strong>Cyrocom Technologies</strong> is an independent development initiative aimed at simplifying processes for teachers in Kenya. The app was developed by a teacher with the goal of supporting educators in their day-to-day administrative responsibilities.</p>
+            </section>
+
+            <section>
+                <h2>Disclaimer</h2>
+                <p>This app, <strong>[App Name]</strong>, is an independent service developed by Cyrocom Technologies. It is not affiliated with, endorsed by, or sponsored by the Teachers Service Commission (TSC). All links to the TPAD system, Leave Application Portal, and Transfer Application Portal lead to official TSC websites. Any data entered through these systems is handled directly by the TSC. The app serves only as a platform to facilitate easy access to these systems.</p>
+            </section>
+
+            <section>
+                <h2>Contact Us</h2>
+                <p>If you have any questions or need support with the app, feel free to contact us:</p>
+                <ul>
+                    <li>Email: cyrocom@yahoo.com</li>
+                    <li>Phone: 0734563392</li>
+                </ul>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2024 Cyrocom Technologies</p>
+        </footer>
+    </div>
+</body>
+</html>
